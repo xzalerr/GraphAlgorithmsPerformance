@@ -1,0 +1,3 @@
+/Users/rafalzalecki/Downloads/Grafy/cmake-build-debug/CMakeFiles/Grafy.dir
+/Users/rafalzalecki/Downloads/Grafy/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/rafalzalecki/Downloads/Grafy/cmake-build-debug/CMakeFiles/rebuild_cache.dir
